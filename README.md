@@ -76,8 +76,9 @@ More Info?
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scshiv29-dev&theme=radical" alt="More Nish Stats" /></p>
 </a>
 <!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 
 [scshiv29-dev](https://github.com/scshiv29-dev)
 <br>
 
+<head ><script async defer src="https://buttons.github.io/buttons.js"></script></head>
