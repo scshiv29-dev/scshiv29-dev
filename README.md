@@ -17,9 +17,6 @@ I am nish. I am adeveloper, here some info about me
 </a>
 </p>
 
-```diff
-@@        Extra Contacts        @@
-```
 
 </p>
 
@@ -46,18 +43,6 @@ More Info?
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scshiv29-dev&theme=radical" alt="More Nish Stats" /></p>
 </a>
 
-## 🎵 Spotify status
-
-I listen to a lot of songs on Spotify, so here my Spotify now playing status. You can see my Spotify now playing on Discord too!
-**(If Something is not playing, it just shows static info of the previous played song)**
-
-<p align="center">
-<a href="https://readme-new.vercel.app/api/song/?opened">
-  <img src="https://readme-new.vercel.app/api/song" width="341" height="571" alt="Now Playing">
-</a>
-  </p>
-
----
 
 [scshiv29-dev](https://github.com/scshiv29-dev)
 <br>
