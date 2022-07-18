@@ -8,7 +8,7 @@ I am Shivam. I am adeveloper, here some info about me
 
 #### 📫 How to reach me
 
-- Email: [`Click To Mail!`](mailto:shivamchaudhary790@hotmail.com) or copy **`shivamchaudhary790@hotmail.com`**
+- Email: [`Click To Mail!`](mailto:shivchaudhary790@hotmail.com) or copy **`shivchaudhary790@hotmail.com`**
 
 ---
 
