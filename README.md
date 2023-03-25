@@ -21,6 +21,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build an Simple API using Python.](https://shivamchaudhary.pro/how-to-build-an-simple-api-using-python/)
+- [Web 101: Understanding the Differences Between Websites and Web Applications](https://shivamchaudhary.pro/webapp-vs-website/)
+- [Coming soon](https://shivamchaudhary.pro/coming-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
