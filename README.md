@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Global state in React and how to implement it](https://shivamchaudhary.pro/global-state-in-react-and-how-to-implement-it/)
 - [How to build an Simple API using Python.](https://shivamchaudhary.pro/how-to-build-an-simple-api-using-python/)
 - [Web 101: Understanding the Differences Between Websites and Web Applications](https://shivamchaudhary.pro/webapp-vs-website/)
 - [Coming soon](https://shivamchaudhary.pro/coming-soon/)
