@@ -21,10 +21,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Making URL shortener using NEXTjs .](https://shivamchaudhary.pro/making-url-shortener-using-nextjs/)
-- [Promises in javascript](https://shivamchaudhary.pro/promises-in-javascript/)
-- [Global state in React and how to implement it](https://shivamchaudhary.pro/global-state-in-react-and-how-to-implement-it/)
-- [How to build an Simple API using Python.](https://shivamchaudhary.pro/how-to-build-an-simple-api-using-python/)
+- [Making URL shortener using NEXTjs .](https://blog.shivamchaudhary.pro/making-url-shortener-using-nextjs/)
+- [Promises in javascript](https://blog.shivamchaudhary.pro/promises-in-javascript/)
+- [Global state in React and how to implement it](https://blog.shivamchaudhary.pro/global-state-in-react-and-how-to-implement-it/)
+- [How to build an Simple API using Python.](https://blog.shivamchaudhary.pro/how-to-build-an-simple-api-using-python/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
