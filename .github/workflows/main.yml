@@ -13,4 +13,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://shivamchaudhary.pro/rss/"
+                feed_list: "https://blog.shivamchaudhary.pro/rss/"
