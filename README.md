@@ -18,14 +18,7 @@
 - 💬 Ask me about **react,nextjs,api,python,mongodb,etc.**
 
 - 📫 How to reach me **scshiv29-dev@proton.me**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Making URL shortener using NEXTjs .](https://blog.shivamchaudhary.pro/making-url-shortener-using-nextjs/)
-- [Promises in javascript](https://blog.shivamchaudhary.pro/promises-in-javascript/)
-- [Global state in React and how to implement it](https://blog.shivamchaudhary.pro/global-state-in-react-and-how-to-implement-it/)
-- [How to build an Simple API using Python.](https://blog.shivamchaudhary.pro/how-to-build-an-simple-api-using-python/)
-<!-- BLOG-POST-LIST:END -->
+- 📫 How to reach me **shivchaudhary790@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,8 +35,6 @@
 <p><a href="https://www.buymeacoffee.com/thelaw"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thelaw" /></a><a href="https://ko-fi.com/shivamfullstack"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shivamfullstack" /></a></p><br><br>
 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=scshiv29-dev&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="scshiv29-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scshiv29-dev&show_icons=true&theme=dark&locale=en" alt="scshiv29-dev" /></p>
