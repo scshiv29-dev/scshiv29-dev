@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any projects**
 
-- 📝 I sometimes write articles on [https://blog.shivamchaudhary.pro](https://blog.shivamchaudhary.pro)
+- 📝 I sometimes write articles [here](https://blog.shivamchaudhary.com)
 
 - 💬 Ask me about **react,nextjs,api,python,mongodb,etc.**
 
