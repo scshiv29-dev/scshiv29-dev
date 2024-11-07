@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working as an **Associate at Accenture**, focusing on cloud operations and development
-- 🌱 Learning **Svelte** and **Java** to expand my tech stack
+- 🌱 Learning **Go** to expand my tech stack
 - ✨ Building **FlexiDB** - An open-source, self-hostable database container deployment solution
 - 📝 Writing technical articles on [my blog](https://blog.shivamchaudhary.com)
 - 💼 Open to collaborating on innovative projects
