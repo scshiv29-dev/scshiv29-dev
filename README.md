@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react,nextjs,api,python,mongodb,etc.**
 
-- 📫 How to reach me **scshiv29-dev@proton.me**
+- 📫 How to reach me **work@shivamchaudhary.com**
 - 📫 How to reach me **shivchaudhary790@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
